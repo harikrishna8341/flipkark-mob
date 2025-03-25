@@ -20,13 +20,6 @@ function App() {
       price:'16,999'
     }
   ]
-
-
-
-
-
-
-
   return (
     <>
       <div className="main">
